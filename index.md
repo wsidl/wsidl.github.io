@@ -20,3 +20,7 @@ Through a number of projects and questions, I've developed some libraries to hel
 #### Python
 
 - Nothing here yet. Still organizing them.
+
+#### Projects
+
+- [avadepth](https://github.com/pwgsc/avadepth): Website for the querying and distribution of hydrographic and bathymetry data for the Canadian Coast Guard.
